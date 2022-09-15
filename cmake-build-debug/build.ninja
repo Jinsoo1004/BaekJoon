@@ -52,39 +52,6 @@ build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
 build edit_cache: phony CMakeFiles/edit_cache.util
 
 # =============================================================================
-# Object build statements for EXECUTABLE target BaekJoon-1008
-
-
-#############################################
-# Order-only phony target for BaekJoon-1008
-
-build cmake_object_order_depends_target_BaekJoon-1008: phony || CMakeFiles/BaekJoon-1008.dir
-
-build CMakeFiles/BaekJoon-1008.dir/BaekJoon-1008.c.obj: C_COMPILER__BaekJoon-1008_Debug C$:/Users/user/Desktop/anything/BaekJoon/BaekJoon-1008.c || cmake_object_order_depends_target_BaekJoon-1008
-  DEP_FILE = CMakeFiles\BaekJoon-1008.dir\BaekJoon-1008.c.obj.d
-  FLAGS = -g -std=gnu99
-  OBJECT_DIR = CMakeFiles\BaekJoon-1008.dir
-  OBJECT_FILE_DIR = CMakeFiles\BaekJoon-1008.dir
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target BaekJoon-1008
-
-
-#############################################
-# Link the executable BaekJoon-1008.exe
-
-build BaekJoon-1008.exe: C_EXECUTABLE_LINKER__BaekJoon-1008_Debug CMakeFiles/BaekJoon-1008.dir/BaekJoon-1008.c.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\BaekJoon-1008.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = BaekJoon-1008.exe
-  TARGET_IMPLIB = libBaekJoon-1008.dll.a
-  TARGET_PDB = BaekJoon-1008.exe.dbg
-
-# =============================================================================
 # Object build statements for EXECUTABLE target BaekJoon-1000
 
 
@@ -249,6 +216,72 @@ build BaekJoon-10998.exe: C_EXECUTABLE_LINKER__BaekJoon-10998_Debug CMakeFiles/B
   TARGET_IMPLIB = libBaekJoon-10998.dll.a
   TARGET_PDB = BaekJoon-10998.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target BaekJoon-10869
+
+
+#############################################
+# Order-only phony target for BaekJoon-10869
+
+build cmake_object_order_depends_target_BaekJoon-10869: phony || CMakeFiles/BaekJoon-10869.dir
+
+build CMakeFiles/BaekJoon-10869.dir/BaekJoon-10869.c.obj: C_COMPILER__BaekJoon-10869_Debug C$:/Users/user/Desktop/anything/BaekJoon/BaekJoon-10869.c || cmake_object_order_depends_target_BaekJoon-10869
+  DEP_FILE = CMakeFiles\BaekJoon-10869.dir\BaekJoon-10869.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\BaekJoon-10869.dir
+  OBJECT_FILE_DIR = CMakeFiles\BaekJoon-10869.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target BaekJoon-10869
+
+
+#############################################
+# Link the executable BaekJoon-10869.exe
+
+build BaekJoon-10869.exe: C_EXECUTABLE_LINKER__BaekJoon-10869_Debug CMakeFiles/BaekJoon-10869.dir/BaekJoon-10869.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\BaekJoon-10869.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = BaekJoon-10869.exe
+  TARGET_IMPLIB = libBaekJoon-10869.dll.a
+  TARGET_PDB = BaekJoon-10869.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target BaekJoon-10926
+
+
+#############################################
+# Order-only phony target for BaekJoon-10926
+
+build cmake_object_order_depends_target_BaekJoon-10926: phony || CMakeFiles/BaekJoon-10926.dir
+
+build CMakeFiles/BaekJoon-10926.dir/BaekJoon-10926.c.obj: C_COMPILER__BaekJoon-10926_Debug C$:/Users/user/Desktop/anything/BaekJoon/BaekJoon-10926.c || cmake_object_order_depends_target_BaekJoon-10926
+  DEP_FILE = CMakeFiles\BaekJoon-10926.dir\BaekJoon-10926.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\BaekJoon-10926.dir
+  OBJECT_FILE_DIR = CMakeFiles\BaekJoon-10926.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target BaekJoon-10926
+
+
+#############################################
+# Link the executable BaekJoon-10926.exe
+
+build BaekJoon-10926.exe: C_EXECUTABLE_LINKER__BaekJoon-10926_Debug CMakeFiles/BaekJoon-10926.dir/BaekJoon-10926.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\BaekJoon-10926.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = BaekJoon-10926.exe
+  TARGET_IMPLIB = libBaekJoon-10926.dll.a
+  TARGET_PDB = BaekJoon-10926.exe.dbg
+
 
 #############################################
 # Utility command for rebuild_cache
@@ -268,9 +301,11 @@ build BaekJoon-1000: phony BaekJoon-1000.exe
 
 build BaekJoon-1001: phony BaekJoon-1001.exe
 
-build BaekJoon-1008: phony BaekJoon-1008.exe
-
 build BaekJoon-10718: phony BaekJoon-10718.exe
+
+build BaekJoon-10869: phony BaekJoon-10869.exe
+
+build BaekJoon-10926: phony BaekJoon-10926.exe
 
 build BaekJoon-10998: phony BaekJoon-10998.exe
 
@@ -284,7 +319,7 @@ build BaekJoon-2557: phony BaekJoon-2557.exe
 #############################################
 # Folder: C:/Users/user/Desktop/anything/BaekJoon/cmake-build-debug
 
-build all: phony BaekJoon-1008.exe BaekJoon-1000.exe BaekJoon-2557.exe BaekJoon-10718.exe BaekJoon-1001.exe BaekJoon-10998.exe
+build all: phony BaekJoon-1000.exe BaekJoon-2557.exe BaekJoon-10718.exe BaekJoon-1001.exe BaekJoon-10998.exe BaekJoon-10869.exe BaekJoon-10926.exe
 
 # =============================================================================
 # Built-in targets

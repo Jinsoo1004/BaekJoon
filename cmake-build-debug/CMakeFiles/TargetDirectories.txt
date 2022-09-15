@@ -1,8 +1,9 @@
 C:/Users/user/Desktop/anything/BaekJoon/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/user/Desktop/anything/BaekJoon/cmake-build-debug/CMakeFiles/BaekJoon-1008.dir
 C:/Users/user/Desktop/anything/BaekJoon/cmake-build-debug/CMakeFiles/BaekJoon-1000.dir
 C:/Users/user/Desktop/anything/BaekJoon/cmake-build-debug/CMakeFiles/BaekJoon-2557.dir
 C:/Users/user/Desktop/anything/BaekJoon/cmake-build-debug/CMakeFiles/BaekJoon-10718.dir
 C:/Users/user/Desktop/anything/BaekJoon/cmake-build-debug/CMakeFiles/BaekJoon-1001.dir
 C:/Users/user/Desktop/anything/BaekJoon/cmake-build-debug/CMakeFiles/BaekJoon-10998.dir
+C:/Users/user/Desktop/anything/BaekJoon/cmake-build-debug/CMakeFiles/BaekJoon-10869.dir
+C:/Users/user/Desktop/anything/BaekJoon/cmake-build-debug/CMakeFiles/BaekJoon-10926.dir
 C:/Users/user/Desktop/anything/BaekJoon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
