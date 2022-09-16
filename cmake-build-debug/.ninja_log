@@ -1,6 +1,6 @@
 # ninja log v5
 1	123	6848561210948012	CMakeFiles/BaekJoon.dir/BaekJoon-3003.c.obj	b558149fc8727974
-0	108	6849121891074438	build.ninja	2cad4d99c8829b6c
+0	108	6849129702689529	build.ninja	2cad4d99c8829b6c
 1	144	6849103203674985	CMakeFiles/BaekJoon-1001.dir/BaekJoon-1001.c.obj	799a2dee8841cdef
 9	189	6849101850395231	CMakeFiles/BaekJoon-2557.dir/BaekJoon-2557.c.obj	57e84f9c0f511e2b
 1	82	6848563456036893	CMakeFiles/BaekJoon.dir/BaekJoon-2557.c.obj	2454994bf8731730
