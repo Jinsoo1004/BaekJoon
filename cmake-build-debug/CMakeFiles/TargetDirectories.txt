@@ -3,8 +3,13 @@ C:/Users/user/Desktop/anything/BaekJoon/cmake-build-debug/CMakeFiles/BaekJoon-25
 C:/Users/user/Desktop/anything/BaekJoon/cmake-build-debug/CMakeFiles/BaekJoon-10718.dir
 C:/Users/user/Desktop/anything/BaekJoon/cmake-build-debug/CMakeFiles/BaekJoon-18108.dir
 C:/Users/user/Desktop/anything/BaekJoon/cmake-build-debug/CMakeFiles/BaekJoon-1001.dir
+C:/Users/user/Desktop/anything/BaekJoon/cmake-build-debug/CMakeFiles/BaekJoon-10172.dir
 C:/Users/user/Desktop/anything/BaekJoon/cmake-build-debug/CMakeFiles/BaekJoon-10998.dir
 C:/Users/user/Desktop/anything/BaekJoon/cmake-build-debug/CMakeFiles/BaekJoon-10869.dir
+C:/Users/user/Desktop/anything/BaekJoon/cmake-build-debug/CMakeFiles/BaekJoon-10171.dir
 C:/Users/user/Desktop/anything/BaekJoon/cmake-build-debug/CMakeFiles/BaekJoon-10926.dir
+C:/Users/user/Desktop/anything/BaekJoon/cmake-build-debug/CMakeFiles/BaekJoon-10430.dir
+C:/Users/user/Desktop/anything/BaekJoon/cmake-build-debug/CMakeFiles/BaekJoon-2588.dir
+C:/Users/user/Desktop/anything/BaekJoon/cmake-build-debug/CMakeFiles/BaekJoon-25083.dir
 C:/Users/user/Desktop/anything/BaekJoon/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/user/Desktop/anything/BaekJoon/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -5,5 +5,8 @@
 
 //BaekJoon-18108
 int main() {
-
+    int a;
+    scanf("%d", &a);
+    printf("%d", a-543);
+    return 0;
 }
