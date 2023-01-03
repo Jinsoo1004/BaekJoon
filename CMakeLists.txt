@@ -4,4 +4,4 @@ project(BaekJoon C)
 set(CMAKE_C_STANDARD 99)
 
 
-add_executable(Out 2702.c)
+add_executable(Out 3003.c)

@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/mj/Desktop/BaekJoon/2702.c" "CMakeFiles/Out.dir/2702.c.o" "gcc" "CMakeFiles/Out.dir/2702.c.o.d"
+  "/Users/mj/Desktop/BaekJoon/3003.c" "CMakeFiles/Out.dir/3003.c.o" "gcc" "CMakeFiles/Out.dir/3003.c.o.d"
   )
 
 # Targets to which this target links.

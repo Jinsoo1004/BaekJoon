@@ -44,10 +44,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = "/Users/mj/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/223.7571.171/CLion.app/Contents/bin/cmake/mac/bin/cmake"
+CMAKE_COMMAND = "/Users/mj/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/223.8214.51/CLion.app/Contents/bin/cmake/mac/bin/cmake"
 
 # The command to remove a file.
-RM = "/Users/mj/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/223.7571.171/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E rm -f
+RM = "/Users/mj/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/223.8214.51/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -69,28 +69,28 @@ include CMakeFiles/Out.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Out.dir/flags.make
 
-CMakeFiles/Out.dir/2702.c.o: CMakeFiles/Out.dir/flags.make
-CMakeFiles/Out.dir/2702.c.o: /Users/mj/Desktop/BaekJoon/2702.c
-CMakeFiles/Out.dir/2702.c.o: CMakeFiles/Out.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mj/Desktop/BaekJoon/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Out.dir/2702.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Out.dir/2702.c.o -MF CMakeFiles/Out.dir/2702.c.o.d -o CMakeFiles/Out.dir/2702.c.o -c /Users/mj/Desktop/BaekJoon/2702.c
+CMakeFiles/Out.dir/3003.c.o: CMakeFiles/Out.dir/flags.make
+CMakeFiles/Out.dir/3003.c.o: /Users/mj/Desktop/BaekJoon/3003.c
+CMakeFiles/Out.dir/3003.c.o: CMakeFiles/Out.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mj/Desktop/BaekJoon/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Out.dir/3003.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Out.dir/3003.c.o -MF CMakeFiles/Out.dir/3003.c.o.d -o CMakeFiles/Out.dir/3003.c.o -c /Users/mj/Desktop/BaekJoon/3003.c
 
-CMakeFiles/Out.dir/2702.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Out.dir/2702.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mj/Desktop/BaekJoon/2702.c > CMakeFiles/Out.dir/2702.c.i
+CMakeFiles/Out.dir/3003.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Out.dir/3003.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mj/Desktop/BaekJoon/3003.c > CMakeFiles/Out.dir/3003.c.i
 
-CMakeFiles/Out.dir/2702.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Out.dir/2702.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mj/Desktop/BaekJoon/2702.c -o CMakeFiles/Out.dir/2702.c.s
+CMakeFiles/Out.dir/3003.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Out.dir/3003.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mj/Desktop/BaekJoon/3003.c -o CMakeFiles/Out.dir/3003.c.s
 
 # Object files for target Out
 Out_OBJECTS = \
-"CMakeFiles/Out.dir/2702.c.o"
+"CMakeFiles/Out.dir/3003.c.o"
 
 # External object files for target Out
 Out_EXTERNAL_OBJECTS =
 
-Out: CMakeFiles/Out.dir/2702.c.o
+Out: CMakeFiles/Out.dir/3003.c.o
 Out: CMakeFiles/Out.dir/build.make
 Out: CMakeFiles/Out.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/mj/Desktop/BaekJoon/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable Out"
